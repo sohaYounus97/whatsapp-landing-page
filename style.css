@@ -1,0 +1,388 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+font-size: 12px;
+font-family: 'Roboto','sans-serif';
+background-color: white; 
+}
+.mainpage{
+	width: 1250px;
+	height: 600px;
+	border:none;
+	margin: auto;
+	position: relative;
+    padding: 2px;
+	background-image: url("images/w2.png"); 
+}
+.navbar{
+	text-align: right;
+	//*margin-right: 125px;
+	padding-bottom: 20px;
+	background-image: url("images/w2.png");*//
+	height: 550px;
+	position: relative;
+	left: 60px;
+	background-repeat: no-repeat;
+
+}
+img{
+	width: 1150px;
+}
+.navbar li{
+	display: inline-block;
+}
+.navbar li a{
+	padding-right: 20px;
+	text-decoration: none;
+	color: white;
+	position: relative;
+	top: 40px;
+}
+option{
+  float: right;
+  overflow: hidden;
+   font-size: 16px; 
+  position: relative;
+  top: 50px;
+}
+select{
+	width: 59px;
+	position: absolute;
+	top: 40px;
+    
+}
+.content{
+	height: 800px;
+	background-color: #fff;
+	width: 1250px;
+	position: relative;
+	left: 60px;
+}
+.clear{
+	clear: both;
+}
+.graydiv{
+	height: 270px;
+	background-color: rgb(155, 155, 155, 0.5);
+	width: 1138px;
+	position: relative;
+	left: 60px;
+}
+.greendiv{
+	height: 270px;
+	background-color: rgb(0, 190, 164);
+	width: 1138px;
+	position: relative;
+	left: 60px;
+}
+
+#body{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+font-size: 16px;
+font-family: 'Roboto','sans-serif';
+background-color: white; 
+}
+.navbar{
+	text-align: right;
+	margin-right: 125px;
+	padding-bottom: 20px;
+	background-image: url("images/w2.png");
+	height: 550px;
+	position: relative;
+	left: 60px;
+	background-repeat: no-repeat;
+
+}
+.navbar li{
+	display: inline-block;
+}
+.navbar li a{
+	padding-right: 20px;
+	text-decoration: none;
+	color: white;
+	position: relative;
+	top: 40px;
+}
+option{
+  float: right;
+  overflow: hidden;
+   font-size: 16px; 
+  position: relative;
+  top: 50px;
+}
+.content{
+	height: 1200px;
+	background-color: #fff;
+	width: 1138px;
+	position: relative;
+	left: 60px;
+}
+.clear{
+	clear: both;
+}
+.graydiv{
+	height: 360px;
+	background-color: rgb(155, 155, 155, 0.5);
+	width: 1252px;
+	border:none;
+	margin: auto;
+	position: relative;
+    margin-left: -55px;
+	//*position: relative;
+	left: 60px;*//
+}
+.greendiv{
+	height: 300px;
+	background-color: rgb(0, 190, 164);
+	width: 1252px;
+	position: relative;
+	margin-left: -55px;
+}
+
+
+.footer{
+	height: 90px;
+	background-color: #2d2d2d;
+	width: 1252px;
+	position: relative;
+	margin-left: 5px;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+}
+
+    .box01 {
+      width: 235px;
+      height: 240px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 140px;
+
+    }
+    .box02 {
+      width: 160px;
+      height: 240px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 50px;
+
+    }
+
+    .seperator {
+      clear: both;
+    }
+p{
+	line-height: 1.6em;
+	color: white;
+	font-size: 14px;
+}
+h4{
+	color: white;
+}
+#bottom{
+	color: white;
+	position: absolute;
+	top: 250px;
+	margin-left: 130px;
+}
+h2{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 340px;
+	font-size: 32px;
+	word-spacing: 3px;
+}
+#para02{
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-family: sans-serif;
+	word-spacing: 0px;
+}
+    .fab-btn {
+      color: white;
+      font-size: 12px;
+      font-weight: bold;
+      background-color: green;
+      width: 14em;
+      padding: 8px;
+      margin: 8px;
+      text-align: center;
+      border-top-left-radius: 60px 50px;
+      border-bottom-right-radius: 30px 20px;
+      border-radius: 20px;
+      position: absolute;
+      height: 30px;
+      left: 480px;
+      line-height: 27px;
+    }
+      .fab-btn01{
+      color: white;
+      font-size: 12px;
+      font-weight: bold;
+      background-color: green;
+      width: 14em;
+      padding: 8px;
+      margin: 8px;
+      text-align: center;
+      border-top-left-radius: 60px 50px;
+      border-bottom-right-radius: 30px 20px;
+      border-radius: 20px;
+      position: absolute;
+      height: 30px;
+      left: 110px;
+      line-height: 27px;
+    }
+ .text{
+      width: 500px;
+      height: 300px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 60px;
+}
+    
+     .text01{
+      width: 470px;
+      height: 300px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 120px;
+      font-family: sans-serif;
+
+    } 
+   .text03{
+   	 width: 420px;
+      height: 270px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 120px;
+      margin-top: 80px;
+      font-family: sans-serif;
+
+   }
+
+
+     .image01{
+      width: 330px;
+      height: 320px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 60px;
+      margin-top: 30px;
+
+}
+     .image04{
+      width: 330px;
+      height: 300px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 80px;
+      margin-top: 30px;
+
+}
+#voicenote{
+	width: 330px;
+	height: 300px;
+}
+img{
+	width: 330px;
+	height: 320px;
+
+}
+
+        .video{
+      width: 300px;
+      height: 200px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 160px;
+      margin-top: 100px;
+    }
+    #image02{
+    	width: 300px;
+    	height: 200px;
+    }
+        .graph{
+      width: 320px;
+      height: 300px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 110px;
+      margin-top: 70px;
+    }
+    #image03{
+    	width: 320px;
+    	height: 300px;
+    }
+      .text02{
+      width: 380px;
+      height: 300px;
+      border: none;
+      margin: 20px;
+      float: left;
+      margin-left: 80px;
+      margin-top: 80px;
+      font-family: sans-serif;
+
+    } 
+    #heading{
+    	color: rgb(0, 190, 164);
+    	font-size: 35px;
+    	font-weight: none;
+    	line-height: 3px;
+    }
+    h5{
+    	color: rgb(0, 190, 164);
+    	font-size: 28px;
+    }
+    #tax{
+    	color: #4d4d4d;
+    	font-size: 12px;
+    	    }
+
+    #para03{
+    	color: #999999;
+    }
+    #para04{
+         color: #4d4d4d;
+    }
+    #para05{
+    	color: green;
+    }
+     #para07{
+         color: #4d4d4d;
+         font-size: 12px;
+    }
+.logo{
+	width: 600px;
+	height: 50px;
+	border: none;
+	display: inline-block;
+	position: relative;
+	left: 300px;
+	margin: 30px;
+}
+#icons{
+	width: 500px;
+	 height: 50px;
+}
+    
+
+	
+
